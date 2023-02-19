@@ -6,9 +6,9 @@
 
 - 🔭 I’m currently working on **Web Development**
 
-- 🌱 I’m currently learning **ReactJs,NextJs,TailwindCSS**
+- 🌱 I’m currently learning **ReactJs,NextJs,TailwindCSS,Firebase**
 
-- 👨‍💻 All of my projects are available at [http://github.io/vaarunn/personal-portfolio](http://github.io/vaarunn/personal-portfolio)
+- 👨‍💻 All of my projects are available at [https://vaarunn.github.io/varun-sadananda/](http://github.io/vaarunn/personal-portfolio)
 
 - 💬 Ask me about **Web Development**
 
