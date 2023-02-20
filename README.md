@@ -1,3 +1,6 @@
+
+
+
 <h1 align="center">Hi 👋, I'm Varun Sadananda</h1>
 <h3 align="center">Dope Coder from India</h3>
 
@@ -6,17 +9,20 @@
 
 - 🔭 I’m currently working on **Web Development**
 
-- 🌱 I’m currently learning **ReactJs,NextJs,TailwindCSS,Firebase**
+- 🌱 I’m currently learning **ReactJs,NextJs,TailwindCSS**
 
-- 👨‍💻 All of my projects are available at [https://vaarunn.github.io/varun-sadananda/](http://github.io/vaarunn/personal-portfolio)
+- 👨‍💻 All of my projects are available at [https://vaarunn.github.io/varun-sadananda/](https://vaarunn.github.io/varun-sadananda/)
 
 - 💬 Ask me about **Web Development**
 
 - 📫 How to reach me **varunsadananda108@gmail.com**
 
+- 📄 Know about my experiences [https://drive.google.com/file/d/1RfLai75Zxo4K3Jcyg4Zq6SOsS-CiQeVy/view](https://drive.google.com/file/d/1RfLai75Zxo4K3Jcyg4Zq6SOsS-CiQeVy/view)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/varun-sadananda-b251131b7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/varun-sadananda-b251131b7/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/varun-sadananda-b251131b7/un-sadananda-b251131b7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/varun-sadananda-b251131b7/un-sadananda-b251131b7/" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/vaarunn/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/vaarunn/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
