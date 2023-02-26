@@ -11,13 +11,13 @@
 
 - 🌱 I’m currently learning **ReactJs,NextJs,TailwindCSS**
 
-- 👨‍💻 All of my projects are available at [Click here](https://vaarunn.github.io/varun-sadananda/)
+- 👨‍💻 All of my projects are available at [Click Here](https://vaarunn.github.io/varun-sadananda/)
 
 - 💬 Ask me about **Web Development**
 
 - 📫 How to reach me **varunsadananda108@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1RfLai75Zxo4K3Jcyg4Zq6SOsS-CiQeVy/view](Click Here)
+- 📄 Know about my experiences [Click Here](https://drive.google.com/file/d/1RfLai75Zxo4K3Jcyg4Zq6SOsS-CiQeVy/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
