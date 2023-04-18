@@ -2,23 +2,20 @@
 
 
 <h1 align="center">Hi 👋, I'm Varun Sadananda</h1>
-<h3 align="center">Dope Coder from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaarunn&label=Profile%20views&color=0e75b6&style=flat" alt="vaarunn" /> </p>
 <img align="right" alt="bateman" width="400" src="https://media.tenor.com/5lLcKZgmIhgAAAAC/american-psycho-patrick-bateman.gif"/>
 
 - 🔭 I’m currently working on **Web Development**
 
-- 🌱 I’m currently learning **ReactJs,NextJs,TailwindCSS**
+- 🌱 I’m currently learning **MERN stack,DSA**
 
 - 👨‍💻 All of my projects are available at [Click Here](https://vaarunn.github.io/varun-sadananda/)
-
-- 💬 Ask me about **Web Development**
 
 - 📫 How to reach me **varunsadananda108@gmail.com**
 
 - 📄 Know about my experiences [Click Here](https://drive.google.com/file/d/1RfLai75Zxo4K3Jcyg4Zq6SOsS-CiQeVy/view)
-
+ 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/varun-sadananda/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/varun-sadananda-b251131b7/un-sadananda-b251131b7/" height="30" width="40" /></a>
