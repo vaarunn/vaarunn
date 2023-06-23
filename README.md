@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **MERN stack,DSA**
 
-- 👨‍💻 All of my projects are available at [Click Here](https://vaarunn.github.io/varun-sadananda/)
+- 👨‍💻 All of my projects are available at [Click Here](https://varun-sadananda.vercel.app/)
 
 - 📫 How to reach me **varunsadananda108@gmail.com**
 
